@@ -113,7 +113,8 @@ button {
 
 .section-main {
   background-color: #2e2f42;
-  padding: 188px 0 188px;
+  padding-top: 188px;
+padding-bottom: 188px;
 }
 .people {
   display: block
@@ -294,7 +295,7 @@ padding-left: 16px;
   color: #434455;
 }
 
-.section-main {
+.footer {
   padding: 100px 0;
 }
 
