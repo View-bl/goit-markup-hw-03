@@ -236,6 +236,7 @@ padding: 0px 0px 32px 0px;
 }
 
 .name {
+  margin-bottom: 8px;
   margin-top: 32px;
   margin-left: 49px;
   margin-right: 49px;
