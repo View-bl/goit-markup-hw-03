@@ -214,6 +214,7 @@ button {
 }
 .img-ourteam {
   border-radius: 0 0 4px 4px;
+  display: block;
 padding: 0px 0px 32px 0px;
   background-color: #fff;
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
